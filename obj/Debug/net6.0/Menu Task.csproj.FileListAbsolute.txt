@@ -1,0 +1,15 @@
+C:\Users\tokah\source\repos\Menu Task\bin\Debug\net6.0\Menu Task.exe
+C:\Users\tokah\source\repos\Menu Task\bin\Debug\net6.0\Menu Task.deps.json
+C:\Users\tokah\source\repos\Menu Task\bin\Debug\net6.0\Menu Task.runtimeconfig.json
+C:\Users\tokah\source\repos\Menu Task\bin\Debug\net6.0\Menu Task.dll
+C:\Users\tokah\source\repos\Menu Task\bin\Debug\net6.0\Menu Task.pdb
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\Menu Task.csproj.AssemblyReference.cache
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\Menu Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\Menu Task.AssemblyInfoInputs.cache
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\Menu Task.AssemblyInfo.cs
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\Menu Task.csproj.CoreCompileInputs.cache
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\Menu Task.dll
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\refint\Menu Task.dll
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\Menu Task.pdb
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\Menu Task.genruntimeconfig.cache
+C:\Users\tokah\source\repos\Menu Task\obj\Debug\net6.0\ref\Menu Task.dll
